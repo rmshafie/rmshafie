@@ -1,7 +1,7 @@
 - 👋 Hi, I’m MohammadShafie,Rahmat
 - 👀 I’m interested in web.
 - 🌱 I’m currently learning phyton.
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m not software engineer,I have chemical Eng. Degree and master in MBA.
 - 📫 you can rech me on shafie2668@gmail.com
 .
 
