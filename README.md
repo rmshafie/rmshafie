@@ -2,7 +2,7 @@
 - 👀 I’m interested in web.
 - 🌱 I’m currently learning phyton.
 - 💞️ I’m not software engineer,I have chemical Eng. Degree and master in MBA.
-- 📫 you can rech me on shafie2668@gmail.com
+- 📫 you can reach me on shafie2668@gmail.com
 .
 
 <!---
